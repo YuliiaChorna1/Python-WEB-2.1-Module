@@ -1,0 +1,9 @@
+This is a warning message
+This is a error message
+This is a critical message
+Oooops
+Traceback (most recent call last):
+  File "C:\My projects\WEB\2_Mod_1_Les\les_02.py", line 58, in main
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
